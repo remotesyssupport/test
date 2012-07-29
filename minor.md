@@ -1,5 +1,5 @@
 ## v2.0.0:  
-`Bumped up the version as a complete refactoring is needed`
+**_`BUMPED UP THE VERSION AS A COMPLETE REFACTORING IS NEEDED`_**
 
 * `[GET-003:FIX-001] - Rehaul rsyslog::default (standalone system logger)`
     * `[GET-003:FIX-001a]` - Remove support for old ubuntu systems.
