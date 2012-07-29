@@ -10,6 +10,6 @@
 
 * To schedule any event like backup or internal security audits, Cron is required. The community cron cookbook works sufficiently well for this purpose
 
-###### Changelog for the cookbook ######
+###### * Changelog for the cookbook ######
 	* 1
 	* 2
