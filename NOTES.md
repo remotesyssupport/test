@@ -29,7 +29,7 @@ FEA-xxx = Feature additions/Improvements
 * The initial import of the community cookbook is done only for historical purposes and for tracking/changelog.
 * The community cookbook *__`DOESNOT`__* satify most of our requirements, so completely refactoring it. Please check the ChangeLog below:
 
-	###### Changelog for cookbook Rsyslog ######  
+	###### Changelog for cookbook Rsyslog
 	**_`BUMPED UP THE VERSION AS A COMPLETE REFACTORING IS NEEDED`_**
 
 	* `[GET-003:FIX-001] - Rehaul rsyslog::default (standalone system logger)`
