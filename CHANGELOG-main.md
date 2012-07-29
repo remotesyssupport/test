@@ -27,4 +27,4 @@ FEA-xxx = Feature additions/Improvements
 
 * Rsyslog server-client setup is chosen for the Centralized Logging System
 * The initial import of the community cookbook is done only for historical purposes and for tracking/changelog.
-* The community cookbook *__`DOESNOT`__* in any way satify our requirements, so have to completely refactor it.
+* The community cookbook *__`DOESNOT`__* satify most of our requirements, so completely refactoring it. Please check the ChangeLog below:
