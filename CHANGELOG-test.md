@@ -7,7 +7,7 @@ BUG-xxx = Bug Fix
 FEA-xxx = Feature additions/Improvements
 ```
 
-__get-001__  
+__GET-001__  
 __GET-002__  
   __GET-002:BUG-001__
   __GET-002:FEA-001__
@@ -15,7 +15,8 @@ __GET-002__
 
 ## Change Logs by Raghav ##
 
-#### GET-001 ####
+GET-001
+=======
 
 ##### Imported the community cookbook [ntp] (https://github.com/opscode/cookbooks/tree/master/ntp "NTP Cookbook") #####
 
