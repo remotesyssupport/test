@@ -23,7 +23,7 @@ FEA-xxx = Feature additions/Improvements
 
 --------
 
-##### [GET-003] Imported the community cookbook [rsyslog] (https://github.com/opscode/cookbooks/tree/master/rsyslog "CRON Cookbook") to cookbooks####
+##### [GET-003] Imported the community cookbook [rsyslog] (https://github.com/opscode/cookbooks/tree/master/rsyslog "CRON Cookbook") to cookbooks ####
 
 * Rsyslog server-client setup is chosen for the Centralized Logging System
 * The initial import of the community cookbook is done only for historical purposes and for tracking/changelog.
