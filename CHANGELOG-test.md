@@ -7,10 +7,11 @@ BUG-xxx = Bug Fix
 FEA-xxx = Feature additions/Improvements
 ```
 
-[GET-001] (https://github.com/remotesyssupport/test/blob/master/CHANGELOG-test.md#get-001-imported-the-community-cookbook-ntp)
-__GET-002__  
-  __GET-002:BUG-001__
-  __GET-002:FEA-001__
+[[GET-001] Imported the community cookbook [ntp] (https://github.com/opscode/cookbooks/tree/master/ntp "NTP Cookbook")] (https://github.com/remotesyssupport/test/blob/master/CHANGELOG-test.md#get-001-imported-the-community-cookbook-ntp)  
+__GET-001: Imported the community cookbook [ntp]__  
+__GET-002__    
+  __GET-002:BUG-001__   
+  __GET-002:FEA-001__   
 
 
 ## Change Logs by Raghav ##
