@@ -7,8 +7,13 @@ BUG-xxx = Bug Fix
 FEA-xxx = Feature additions/Improvements
 ```
 
+* __GET-001__
+* __GET-002__
+	* __GET-002:BUG-001__
+	* __GET-002:FEA-001__
 
-## ChangeLogs [Raghav] ##
+
+## Change Logs by Raghav ##
 #### __[GET-001]__ Imported the community cookbook [ntp] (https://github.com/opscode/cookbooks/tree/master/ntp "NTP Cookbook") ###
 
 * In essence  all debugging, security, audit, and authentication is founded on the basis of event correlation (knowing exactly what happened in what order, and on which side), and that depends on good time synchronization. Hence NTP is critically important
