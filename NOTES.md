@@ -29,9 +29,7 @@ FEA-xxx = Feature additions/Improvements
 * The initial import of the community cookbook is done only for historical purposes and for tracking/changelog.
 * The community cookbook *__`DOESNOT`__* satify most of our requirements, so completely refactoring it. Please check the ChangeLog below:
 
-	###### Changelog for cookbook Rsyslog
-	**_`BUMPED UP THE VERSION AS A COMPLETE REFACTORING IS NEEDED`_**
-
+	###### **_`Changelog for cookbook Rsyslog - COMPLETE REFACTORING`_** ######
 	* `[GET-003:FIX-001] - Rehaul rsyslog::default (standalone system logger)`
 		* `[GET-003:FIX-001a]` - Remove support for old ubuntu systems.
 		* `[GET-003:FIX-001b]` - Security Fix, drop privileges to `syslog:adm` from `root:root`.
