@@ -7,7 +7,7 @@ BUG-xxx = Bug Fix
 FEA-xxx = Feature additions/Improvements
 ```
 
-[GET-001][[get001]
+[GET-001][get001]
 __GET-002__  
   __GET-002:BUG-001__
   __GET-002:FEA-001__
