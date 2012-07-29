@@ -15,7 +15,7 @@ __GET-002__
 
 ## Change Logs by Raghav ##
 
-#### GET-001 #### 
+#### GET-001 ####   
 ##### Imported the community cookbook [ntp] (https://github.com/opscode/cookbooks/tree/master/ntp "NTP Cookbook") #####
 
 * In essence  all debugging, security, audit, and authentication is founded on the basis of event correlation (knowing exactly what happened in what order, and on which side), and that depends on good time synchronization. Hence NTP is critically important
