@@ -28,3 +28,12 @@ FEA-xxx = Feature additions/Improvements
 * Rsyslog server-client setup is chosen for the Centralized Logging System
 * The initial import of the community cookbook is done only for historical purposes and for tracking/changelog.
 * The community cookbook *__`DOESNOT`__* satify most of our requirements, so completely refactoring it. Please check the ChangeLog below:
+
+	###### Changelog for cookbook Rsyslog [complete refactoring] ######
+		* [GET-003:FIX-001] - rsyslog::default (standalone system logger) fixes.
+			* [GET-003:FIX-001a] - Remove support for old ubuntu systems.
+    			* [GET-003:FIX-001b] - Security Fix, drop privileges to `syslog:adm` from `root:root`.
+    			* [GET-003:FIX-001c] - Add default rules for ufw and postfix, to better support Ubuntu 12.04.
+    			* [GET-003:FIX-001d] - Add better defintion to the service rsyslog
+
+
