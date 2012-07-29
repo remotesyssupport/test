@@ -7,7 +7,7 @@ BUG-xxx = Bug Fix
 FEA-xxx = Feature additions/Improvements
 ```
 
-__GET-001__  
+[GET-001][[get001]
 __GET-002__  
   __GET-002:BUG-001__
   __GET-002:FEA-001__
@@ -15,7 +15,7 @@ __GET-002__
 
 ## Change Logs by Raghav ##
 
-##### GET-001: Imported the community cookbook [ntp] (https://github.com/opscode/cookbooks/tree/master/ntp "NTP Cookbook") #####
+##### GET-001: Imported the community cookbook [ntp] (https://github.com/opscode/cookbooks/tree/master/ntp "NTP Cookbook") ##### [get001]
 
 * In essence  all debugging, security, audit, and authentication is founded on the basis of event correlation (knowing exactly what happened in what order, and on which side), and that depends on good time synchronization. Hence NTP is critically important
 * This cookbook must be added to the base role, so that it is applied to all and any server started and configured with Chef
