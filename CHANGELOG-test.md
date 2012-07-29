@@ -7,10 +7,10 @@ BUG-xxx = Bug Fix
 FEA-xxx = Feature additions/Improvements
 ```
 
-* __GET-001__
-* __GET-002__
-	* __GET-002:BUG-001__
-	* __GET-002:FEA-001__
+__GET-001__  
+__GET-002__  
+  __GET-002:BUG-001__
+  __GET-002:FEA-001__
 
 
 ## Change Logs by Raghav ##
