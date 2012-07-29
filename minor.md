@@ -5,7 +5,7 @@
     * [GET-003:FIX-001a] - Remove support for old ubuntu systems.
     * [GET-003:FIX-001b] - Security Fix, drop privileges to `syslog:adm` from `root:root`.
     * [GET-003:FIX-001c] - Add default rules for ufw and postfix, to better support Ubuntu 12.04.
-    * [GET-003:FIX-001d] - Add better defintion to the service rsyslog
+    * [GET-003:FIX-001d] - Add better handling of rsyslog.conf
 
 
 
