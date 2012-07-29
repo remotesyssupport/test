@@ -18,7 +18,8 @@ FEA-xxx = Feature additions/Improvements
 
 ##### [GET-002] Imported the community cookbook [cron] (https://github.com/opscode/cookbooks/tree/master/cron "CRON Cookbook") to vendor-cookbooks #####
 
-* To schedule any event like backup or internal security audits, Cron is required. The community cron cookbook works sufficiently well for this purpose
+* To schedule any event like backup or internal security audits, Cron is required.
+* The community cron cookbook works sufficiently well for this purpose
 
 --------
 
@@ -27,4 +28,3 @@ FEA-xxx = Feature additions/Improvements
 * Rsyslog server-client setup is chosen for the Centralized Logging System
 * The initial import of the community cookbook is done only for historical purposes and for tracking/changelog.
 * The community cookbook DOESNT in anyway satify our requirements, so have to completely refactor it.
-
