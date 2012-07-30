@@ -8,7 +8,7 @@
     * `[FIX-001:FEA-001]` - Add default rules for ufw and postfix, to better support Ubuntu 12.04.
     * `[FIX-001:FEA-002]` - Log rotation via logrotate
 
-*`[GET-003:FIX-002] - Rehaul rsyslog::server`
+* `[GET-003:FIX-002] - Rehaul rsyslog::server`
     * `[FIX-002:REM-001]` - Remove dependency on cron
     * `[FIX-002:REM-002]` - Remove old remote server based configs
     * `[FIX-002:FIX-001]` - Security Fix, drop privileges to `syslog:adm` from `root:root`.
