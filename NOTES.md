@@ -2,10 +2,11 @@
 
 ## Indexes ##
 ```
-BUG-xxx = Bug Fix
-FEA-xxx = Feature additions/Improvements
-GET-xxx = Get Initial Cookbook from community
-REM-xxx = Remove a feature
+BUG-xxx = Bug Fix  
+FEA-xxx = Feature additions/Improvements  
+GET-xxx = Get Initial Cookbook from community  
+NEW-xxx = New/Fresh Start  
+REM-xxx = Remove a feature  
 ```
 
 ## Change Logs by Raghav ##
